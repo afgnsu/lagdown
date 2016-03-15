@@ -1,0 +1,9 @@
+//= require jquery
+//= require jquery_ujs
+//= require bootstrap
+//= require select2
+//= require select2_helper
+//= require highlightjs
+//= require highlightjs_helper
+//= require posts
+//= require home

@@ -1,0 +1,10 @@
+body[data-controller="home"]{
+  #editor{
+    width: 100%;
+    height: 600px;
+  }
+  #preview_area{
+    height: 600px;
+    overflow:scroll;
+  }
+}
